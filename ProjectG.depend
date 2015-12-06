@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1449365394 source:c:\programming\graphics\projectg\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<C:\Programming\Graphics\ProjectG\objects.h>
+	<C:\Programming\Graphics\ProjectG\MyLine.h>
+	<C:\Programming\Graphics\ProjectG\3d_polygon.h>
+	<C:\Programming\Graphics\ProjectG\cuboid.h>
+	<C:\Programming\Graphics\ProjectG\HermiteCurve.h>
+	<C:\Programming\Graphics\ProjectG\MyCircle.h>
+	<C:\Programming\Graphics\ProjectG\MyEllipse.h>
+	<C:\Programming\Graphics\ProjectG\MyCirclePath.h>
+	<C:\Programming\Graphics\ProjectG\MyEllipsePath.h>
+	<C:\Programming\Graphics\ProjectG\MyParabolaPath.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1449038164 c:\programming\graphics\projectg\myline.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1449374182 c:\programming\graphics\projectg\objects.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1448854308 c:\programming\graphics\projectg\mycircle.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1448854328 c:\programming\graphics\projectg\mycirclepath.h
+	<graphics.h>
+	<bits/stdc++.h>
+
+1448855585 c:\programming\graphics\projectg\myparabolapath.h
+	<graphics.h>
+	<bits/stdc++.h>
+
+1448854400 c:\programming\graphics\projectg\myellipsepath.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1448988689 c:\programming\graphics\projectg\hermitecurve.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1449364890 c:\programming\graphics\projectg\3d_polygon.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1449362707 c:\programming\graphics\projectg\cuboid.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1449359230 c:\programming\graphics\projectg\myellipse.h
+	<bits/stdc++.h>
+	<graphics.h>
+
