@@ -67,7 +67,7 @@ For creating circle  do
 > scaling 
 
   
-* `delete l1`
+* `delete c1`
 
 > Removes object from screen 
   
@@ -104,7 +104,7 @@ For creating curve  do
 > scaling 
 
   
-* `delete l1`
+* `delete h1`
 
 > Removes object from screen 
   
@@ -147,7 +147,7 @@ To do this create path, access the point_list of the path object and translate t
 > scaling 
 
   
-* `delete l1`
+* `delete cp1`
 
 > Removes object from screen 
   
@@ -182,7 +182,7 @@ To do this create path, access the point_list of the path object and translate t
 > scaling 
 
   
-* `delete l1`
+* `delete ep1`
 
 > Removes object from screen 
   
@@ -218,7 +218,7 @@ To do this create path, access the point_list of the path object and translate t
 > scaling 
 
   
-* `delete l1`
+* `delete p1`
 
 > Removes object from screen 
   
@@ -261,7 +261,7 @@ To do this create path, access the point_list of the path object and translate t
 > scaling 
 
   
-* `delete l1`
+* `delete cub1`
 
 > Removes object from screen 
   
