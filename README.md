@@ -11,7 +11,7 @@ For creating line do
 
 ####Functions include
 
-* ` l1->show_object(colour,delay); `
+* ` l1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
@@ -49,7 +49,7 @@ For creating circle  do
 
 ####Functions include
 
-* ` c1->show_object(colour,delay); `
+* ` c1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
@@ -86,7 +86,7 @@ For creating curve  do
 
 ####Functions include
 
-* ` h1->show_object(colour,delay); `
+* ` h1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
@@ -129,7 +129,7 @@ To do this create path, access the point_list of the path object and translate t
 > xa,ya center point of circle path, resolution ideally ~0.01
 ####Functions include
 
-* ` cp1->show_object(colour,delay); `
+* ` cp1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
@@ -164,7 +164,7 @@ To do this create path, access the point_list of the path object and translate t
 >xa,ya center points a,b major minor axis, resoltion intervals of sampling ~0.01 (if pixelated decrease resolution) 
 ####Functions include
 
-* ` ep1->show_object(colour,delay); `
+* ` ep1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
@@ -200,7 +200,7 @@ To do this create path, access the point_list of the path object and translate t
 > Adjust a and tmax accordingly so parabola fits sceen
 ####Functions include
 
-* ` p1->show_object(colour,delay); `
+* ` p1->draw_object(colour,delay); `
 
 > displaying object on screen, colour of line, delay in millisecond for draw speed
 
