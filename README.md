@@ -2,7 +2,7 @@
 Extended API for drawing and transforming 2d,3d objects and curves in WinBGI
 
 >include only libraries.h using "" , dont use <>
-
+> Incase of error in adding libraries open ProjectG.cbp using codeblocks
 #2D Objects
 
 ##1. Line
