@@ -2,7 +2,7 @@
 #include<graphics.h>
 class MyEllipsePath :public object_2d
 {
-    public:MyEllipsePath(float a,float b,int xa,int ya,float resolution)
+    public:MyEllipsePath(int xa,int ya,float a,float b,float resolution)
     {
         for(float i=0;i<=6.283;i+=resolution)
         {
